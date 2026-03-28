@@ -1,0 +1,28 @@
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Project Specific
+logs/
+last_local_room.txt
+old_str.txt
+
+# OS
+.DS_Store
+Thumbs.db
